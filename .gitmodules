@@ -1,0 +1,15 @@
+[submodule "terra-lingua-frontend"]
+	path = terra-lingua-frontend
+	url = https://github.com/lia-diez/terra-lingua-frontend
+[submodule "terra-lingua-gateway"]
+	path = terra-lingua-gateway
+	url = https://github.com/lia-diez/terra-lingua-gateway
+[submodule "terra-lingua-generation-service"]
+	path = terra-lingua-generation-service
+	url = https://github.com/lia-diez/terra-lingua-generation-service
+[submodule "terra-lingua-llm-service"]
+	path = terra-lingua-llm-service
+	url = https://github.com/lia-diez/terra-lingua-llm-service
+[submodule "terra-lingua-unity"]
+	path = terra-lingua-unity
+	url = https://github.com/lia-diez/terra-lingua-unity
